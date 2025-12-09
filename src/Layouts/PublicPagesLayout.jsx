@@ -1,5 +1,5 @@
 import React from 'react'
-import Landingpage from '../pages/landingpage'
+import Landingpage from '../pages/landingPage'
 import Productpage from '../pages/productpage'
 import ProductDetails from '../pages/productdetails'
 import NotFoundPage from '../pages/NotFoundPage'
