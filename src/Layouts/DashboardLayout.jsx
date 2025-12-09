@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link, Route, Routes } from 'react-router-dom'
 import OrdersPage from '../Dashboard/OrdersPage'
-import Sidebar from '../sidebar'
+import Sidebar from '../Sidebar'
 import Dashboard from '../pages/dashboard'
 
 
