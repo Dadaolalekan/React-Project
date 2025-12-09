@@ -6,7 +6,7 @@ import StateManagement from "./Components/stateManagement/stateManagement";
 import Users from "./Components/Users";
 import Hooks from "./Hooks"
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Landingpage from "./pages/landingPage";
+import Landingpage from "./pages/LandingPage";
 import Dashboard from "./pages/dashboard";
 import Productpage from "./pages/productpage";
 import ProductDetails from "./pages/productdetails";
