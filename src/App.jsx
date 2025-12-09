@@ -9,7 +9,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Landingpage from "./pages/LandingPage";
 import Dashboard from "./pages/dashboard";
 import Productpage from "./pages/productpage";
-import ProductDetails from "./pages/productdetails";
+import ProductDetails from "./pages/ProductDetails";
 import NotFoundPage from "./pages/NotFoundPage";
 // import PublicPagesLayout from "./Layouts/PublicPagesLayout";
 import DashboardLayout from "./Layouts/DashboardLayout";
