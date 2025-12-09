@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+/* 
+.users {
+    padding: 4rem 1rem;
+}
+
+.users-list {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    padding: 4rem 1rem;
+    background: #999;
+}
+
+.empty,
+.loader {
+    background-color: #eee;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #666;
+    margin: 2rem 0;
+}
+
+.users-list img {
+    width: 200px;
+}
+
+.user-card {
+    padding: 1rem;
+    border: 1px solid #666;
+    border-radius: 8px;
+} */
